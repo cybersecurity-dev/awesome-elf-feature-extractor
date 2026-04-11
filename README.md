@@ -28,6 +28,7 @@
 
 
 ## ELF parsing tools
+* [LIEF](https://lief.re/) - LIEF (Library to Instrument Executable Formats) project aims at providing a cross platform library to parse, modify and abstract ELF, PE and MachO formats.
 * [pyelftools ](https://github.com/eliben/pyelftools) - pyelftools is a pure-Python library for parsing and analyzing ELF files and DWARF debugging information
 
 ## 
