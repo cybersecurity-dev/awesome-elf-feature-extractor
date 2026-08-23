@@ -31,6 +31,7 @@
 * [LIEF](https://lief.re/) - **`LIEF`** (Library to Instrument Executable Formats) project aims at providing a cross platform library to parse, modify and abstract ELF, PE and MachO formats.
 * [pyelftools ](https://github.com/eliben/pyelftools) - **`pyelftools`** is a pure-Python library for parsing and analyzing ELF files and DWARF debugging information.
 * [readelf](https://man7.org/linux/man-pages/man1/readelf.1.html) - **`readelf`** displays information about one or more ELF format object files.
+* [fnprint](https://github.com/1rhino2/fnprint) - **`fnprint`** extracts behavioral features from ELF functions by microexecution to name them in stripped binaries and patch-diff vuln vs patched builds.
 
 ## 
 
