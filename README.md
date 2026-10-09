@@ -1,9 +1,52 @@
 <div align="center">
     <p align="center">
         <a href="https://github.com/cybersecurity-dev/awesome-elf-internals">
-          <img width="13%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Tux.svg" />
+          <img width="5%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Tux.svg" />
         </a>
     </p>
+
+```mermaid
+mindmap
+  root((ELF Feature<br/>Representations))
+
+    Metric-Based
+      High-Level
+        ELF Header
+        Strings
+        System Calls & API
+      Assembly-Level
+        Opcodes
+        Mnemonics
+        Symbol Table
+      Machine-Level
+        Static Emulation
+
+    Graph-Based
+      Opcode Graph
+      AST
+      Control Flow Graph
+      Function Call Graph
+      API Call Graph
+
+    Sequence-Based
+      1-D
+        Byte Sequence
+        Instruction Sequence
+        Entropy Sequence
+        N-Grams
+      2-D
+        Grayscale Image
+        RGB Image
+      3-D
+        Latent Projection
+
+    Interdependence
+      File Reputation
+      File-to-Machine Relation
+      File-to-File Relation
+      File-to-Machine Relation Graph
+      File-to-File Relation Graph
+```
 
 # **`Awesome`** [ELF](https://wikipedia.org/wiki/Executable_and_Linkable_Format) (_[Executable and Linkable Format]()_) [Feature](https://wikipedia.org/wiki/Feature_(machine_learning)) [Extractor](https://wikipedia.org/wiki/Comparison_of_executable_file_formats) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
